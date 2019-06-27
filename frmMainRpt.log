@@ -1,0 +1,43 @@
+Line 17: Class JURA2.StylerButton of control cmdSettings was not a loaded control class.
+Line 40: Class JURA2.ucXTab of control tabMain was not a loaded control class.
+Line 2677: Class JURA2.ThemedComboBox of control ThemedComboBox was not a loaded control class.
+Line 23: The property name _ExtentX in cmdSettings is invalid.
+Line 24: The property name _ExtentY in cmdSettings is invalid.
+Line 25: The property name Caption in cmdSettings is invalid.
+Line 26: The property name CaptionDisableColor in cmdSettings is invalid.
+Line 27: The property name CaptionEffectColor in cmdSettings is invalid.
+Line 28: The property name FocusDottedRect in cmdSettings is invalid.
+Line 38: The property name RoundedValue in cmdSettings is invalid.
+Line 47: The property name _ExtentX in tabMain is invalid.
+Line 48: The property name _ExtentY in tabMain is invalid.
+Line 49: The property name TabCount in tabMain is invalid.
+Line 50: The property name TabCaption(0) in tabMain is invalid.
+Line 51: The property name TabCaption(1) in tabMain is invalid.
+Line 52: The property name TabCaption(2) in tabMain is invalid.
+Line 53: The property name TabCaption(3) in tabMain is invalid.
+Line 54: The property name TabCaption(4) in tabMain is invalid.
+Line 55: The property name ActiveTab in tabMain is invalid.
+Line 56: The property name ActiveTabBackEndColor in tabMain is invalid.
+Line 57: The property name ActiveTabBackStartColor in tabMain is invalid.
+Line 66: The property name ActiveTabFont in tabMain is invalid.
+Line 67: The property name ActiveTabHeight in tabMain is invalid.
+Line 69: The property name BottomRightInnerBorderColor in tabMain is invalid.
+Line 70: The property name DisabledTabBackColor in tabMain is invalid.
+Line 71: The property name DisabledTabForeColor in tabMain is invalid.
+Line 73: The property name InActiveTabBackEndColor in tabMain is invalid.
+Line 74: The property name InActiveTabBackStartColor in tabMain is invalid.
+Line 83: The property name InActiveTabFont in tabMain is invalid.
+Line 84: The property name InActiveTabHeight in tabMain is invalid.
+Line 85: The property name OuterBorderColor in tabMain is invalid.
+Line 86: The property name PictureMaskColor in tabMain is invalid.
+Line 87: The property name ShowFocusRect in tabMain is invalid.
+Line 88: The property name TabStyle in tabMain is invalid.
+Line 89: The property name TabTheme in tabMain is invalid.
+Line 90: The property name TopLeftInnerBorderColor in tabMain is invalid.
+Line 91: The property name UseMouseWheelScroll in tabMain is invalid.
+Line 2680: The property name _ExtentX in ThemedComboBox is invalid.
+Line 2681: The property name _ExtentY in ThemedComboBox is invalid.
+Line 2682: The property name BorderColorStyle in ThemedComboBox is invalid.
+Line 2683: The property name ComboBoxBorderColor in ThemedComboBox is invalid.
+Line 2684: The property name DriveListBoxBorderColor in ThemedComboBox is invalid.
+Line 2685: The property name ImageComboBorderColor in ThemedComboBox is invalid.
